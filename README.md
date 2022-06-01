@@ -30,11 +30,3 @@ Additionally, we will include an option for farmers to input the crop on which t
 We will also develop an iOS version of Debug. 
  
 
-## Contributors
-Debug was created between June 5th and 7th, 2020 during the "Hack the Northeast" hackathon. 
-
-Contributors: 
-- Daniel Noguera: https://github.com/DanielNogueraDevelopment
-- Ujjani Das: https://github.com/ujjainidas
-- Dhruv Rawat: https://github.com/Pop0097
-- Adriana Ceric (owner of this repository): https://github.com/AdrianaCeric
